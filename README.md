@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm LOGU, I'm a researcher and I work with schools
 
 <!--
 **logu70/logu70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
